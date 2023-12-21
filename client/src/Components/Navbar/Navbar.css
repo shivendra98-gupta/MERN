@@ -1,0 +1,13 @@
+
+nav{
+    background-color: hsl(204, 68%, 82%); 
+    
+    padding-inline: 1rem !important;
+}
+.active{
+    color: red !important;
+}
+.fs-2{
+    font-size: 1rem;
+    color: black;
+}
